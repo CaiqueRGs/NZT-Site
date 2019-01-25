@@ -1,0 +1,27 @@
+#section3 {
+  position: relative;
+}
+.img1 {
+  width: 100%;
+  display: inline-flex;
+  position: relative;
+}
+.falaPastor {
+  top: 0;
+  position: absolute;
+  display: flex;
+}
+.img3 {
+  width: 29%;
+  height: 44%;
+  margin-left: 22vh;
+  margin-top: 10vh;
+}
+.falaPastor span {
+  margin-top: 42vh;
+  color: white;
+  margin-left: 246px;
+  width: 50%;
+  overflow: hidden;
+  font-size: 33px;
+}
